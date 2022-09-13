@@ -1,0 +1,9 @@
+[
+    {
+        "idprod": 1000,
+        "nombre": "PROCESADOR INTEL CORE I3 12100",
+        "categoria": "CPU_Intel",
+        "precio": 25000,
+        "imagen": "./img/Productos/Procesadores/i3.jpg"
+    }
+]
